@@ -1,0 +1,277 @@
+matchId,homeId,awayId,yyymmd,hhmm,fecha,level,stadium,city
+500410,16,137,20190726,21:00,Fecha 1,Temporada Regular,Presidente Perón,Avellaneda
+500411,6,869,20190727,13:15,Fecha 1,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500412,19,132,20190727,15:30,Fecha 1,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500413,12,8,20190727,17:45,Fecha 1,Temporada Regular,Ciudad de Lanús,Lanús
+500414,2,17,20190727,20:00,Fecha 1,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500415,7,122,20190728,11:00,Fecha 1,Temporada Regular,Ciudad de La Plata,La Plata
+500416,13,1485,20190728,13:15,Fecha 1,Temporada Regular,Marcelo Bielsa,Rosario
+500417,135,20,20190728,15:30,Fecha 1,Temporada Regular,Mario Alberto Kempes,Córdoba
+500418,129,10,20190728,17:45,Fecha 1,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500419,5,100,20190728,20:00,Fecha 1,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500420,3,4,20190729,19:00,Fecha 1,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500421,815,18,20190729,21:10,Fecha 1,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500422,100,6,20190802,21:00,Fecha 2,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500423,122,2,20190803,13:15,Fecha 2,Temporada Regular,José María Minella,Mar del Plata
+500424,18,135,20190803,15:30,Fecha 2,Temporada Regular,Gigante de Arroyito,Rosario
+500425,1485,815,20190803,17:45,Fecha 2,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500426,20,16,20190803,20:00,Fecha 2,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500427,137,129,20190804,11:00,Fecha 2,Temporada Regular,15 de abril,Santa Fe
+500428,8,19,20190804,13:15,Fecha 2,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500429,4,7,20190804,15:30,Fecha 2,Temporada Regular,Florencio Sola,Banfield
+500430,17,12,20190804,17:45,Fecha 2,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500431,869,5,20190804,20:00,Fecha 2,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500432,132,3,20190805,21:10,Fecha 2,Temporada Regular,Malvinas Argentinas,Mendoza
+500433,10,13,20191213,17:10,Fecha 2,Temporada Regular,Libertadores de América,Avellaneda
+500436,2,4,20190816,19:00,Fecha 3,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500443,135,1485,20190816,21:10,Fecha 3,Temporada Regular,Mario Alberto Kempes,Córdoba
+500441,13,137,20190817,15:30,Fecha 3,Temporada Regular,Marcelo Bielsa,Rosario
+500435,19,18,20190817,17:45,Fecha 3,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500437,16,17,20190817,20:00,Fecha 3,Temporada Regular,Presidente Perón,Avellaneda
+500444,869,100,20190818,11:00,Fecha 3,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500440,129,3,20190818,15:30,Fecha 3,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500439,12,20,20190818,17:45,Fecha 3,Temporada Regular,Ciudad de Lanús,Lanús
+500434,5,122,20190818,20:00,Fecha 3,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500445,815,132,20190819,15:30,Fecha 3,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500442,6,8,20190819,17:45,Fecha 3,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500438,7,10,20190819,20:00,Fecha 3,Temporada Regular,Ciudad de La Plata,La Plata
+500452,3,19,20190823,21:00,Fecha 4,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500450,8,129,20190824,13:15,Fecha 4,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500448,20,13,20190824,15:30,Fecha 4,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500455,18,869,20190824,17:45,Fecha 4,Temporada Regular,Gigante de Arroyito,Rosario
+500449,10,6,20190824,20:00,Fecha 4,Temporada Regular,Libertadores de América,Avellaneda
+500457,132,7,20190825,11:00,Fecha 4,Temporada Regular,Malvinas Argentinas,Mendoza
+500456,137,12,20190825,13:15,Fecha 4,Temporada Regular,15 de abril,Santa Fe
+500454,1485,16,20190825,15:30,Fecha 4,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500446,17,135,20190825,17:45,Fecha 4,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500451,4,5,20190825,20:00,Fecha 4,Temporada Regular,Florencio Sola,Banfield
+500453,122,815,20190826,19:00,Fecha 4,Temporada Regular,José María Minella,Mar del Plata
+500447,100,2,20190826,21:10,Fecha 4,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500463,12,1485,20190830,19:00,Fecha 5,Temporada Regular,Ciudad de Lanús,Lanús
+500462,7,20,20190830,21:10,Fecha 5,Temporada Regular,Ciudad de La Plata,La Plata
+500464,129,4,20190830,21:10,Fecha 5,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500460,2,8,20190831,13:15,Fecha 5,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500459,19,137,20190831,15:30,Fecha 5,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500468,869,10,20190831,17:45,Fecha 5,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500461,16,132,20190831,20:00,Fecha 5,Temporada Regular,Presidente Perón,Avellaneda
+500466,6,18,20190901,11:00,Fecha 5,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500469,815,3,20190901,11:00,Fecha 5,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500465,13,100,20190901,13:15,Fecha 5,Temporada Regular,Marcelo Bielsa,Rosario
+500467,135,122,20190901,13:15,Fecha 5,Temporada Regular,Mario Alberto Kempes,Córdoba
+500458,17,5,20190901,17:00,Fecha 5,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500476,3,137,20190914,13:15,Fecha 6,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500478,1485,129,20190914,15:30,Fecha 6,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500481,132,2,20190914,15:30,Fecha 6,Temporada Regular,Malvinas Argentinas,Mendoza
+500480,6,19,20190914,17:45,Fecha 6,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500471,100,17,20190914,20:00,Fecha 6,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500474,8,16,20190915,11:00,Fecha 6,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500475,4,135,20190915,13:15,Fecha 6,Temporada Regular,Florencio Sola,Banfield
+500479,18,13,20190915,15:30,Fecha 6,Temporada Regular,Gigante de Arroyito,Rosario
+500473,10,12,20190915,17:45,Fecha 6,Temporada Regular,Libertadores de América,Avellaneda
+500470,5,7,20190915,20:00,Fecha 6,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500477,122,869,20190916,19:00,Fecha 6,Temporada Regular,José María Minella,Mar del Plata
+500472,20,815,20190916,21:10,Fecha 6,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500490,137,18,20190920,19:00,Fecha 7,Temporada Regular,15 de abril,Santa Fe
+500484,2,1485,20190920,21:10,Fecha 7,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500486,7,869,20190921,13:15,Fecha 7,Temporada Regular,Ciudad de La Plata,La Plata
+500488,129,100,20190921,15:30,Fecha 7,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500483,19,5,20190921,17:45,Fecha 7,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500492,815,10,20190921,20:00,Fecha 7,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500489,13,122,20190922,11:00,Fecha 7,Temporada Regular,Marcelo Bielsa,Rosario
+500493,132,4,20190922,13:15,Fecha 7,Temporada Regular,Malvinas Argentinas,Mendoza
+500487,12,6,20190922,15:30,Fecha 7,Temporada Regular,Ciudad de Lanús,Lanús
+500485,16,3,20190922,17:45,Fecha 7,Temporada Regular,Presidente Perón,Avellaneda
+500482,17,20,20190922,20:00,Fecha 7,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500491,135,8,20190923,21:00,Fecha 7,Temporada Regular,Mario Alberto Kempes,Córdoba
+500501,122,137,20190927,19:00,Fecha 8,Temporada Regular,José María Minella,Mar del Plata
+500505,869,12,20190927,21:10,Fecha 8,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500500,3,7,20190928,15:30,Fecha 8,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500498,8,17,20190928,17:45,Fecha 8,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500494,5,13,20190928,20:00,Fecha 8,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500499,4,19,20190929,11:00,Fecha 8,Temporada Regular,Florencio Sola,Banfield
+500495,100,815,20190929,13:15,Fecha 8,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500496,20,129,20190929,15:30,Fecha 8,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500503,18,16,20190929,17:45,Fecha 8,Temporada Regular,Gigante de Arroyito,Rosario
+500497,10,135,20190929,20:00,Fecha 8,Temporada Regular,Libertadores de América,Avellaneda
+500502,1485,132,20190930,19:00,Fecha 8,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500504,6,2,20190930,21:10,Fecha 8,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500514,13,4,20191004,19:00,Fecha 9,Temporada Regular,Marcelo Bielsa,Rosario
+500516,815,135,20191004,21:10,Fecha 9,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500509,2,3,20191005,13:15,Fecha 9,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500517,132,8,20191005,13:15,Fecha 9,Temporada Regular,Malvinas Argentinas,Mendoza
+500507,19,1485,20191005,15:30,Fecha 9,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500511,7,100,20191005,17:45,Fecha 9,Temporada Regular,Ciudad de La Plata,La Plata
+500510,16,122,20191005,20:00,Fecha 9,Temporada Regular,Presidente Perón,Avellaneda
+500508,20,10,20191006,11:00,Fecha 9,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500512,12,18,20191006,13:15,Fecha 9,Temporada Regular,Ciudad de Lanús,Lanús
+500515,137,6,20191006,15:30,Fecha 9,Temporada Regular,15 de abril,Santa Fe
+500506,17,869,20191006,17:45,Fecha 9,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500513,129,5,20191006,20:00,Fecha 9,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500523,3,17,20191018,19:00,Fecha 10,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500518,5,16,20191018,21:10,Fecha 10,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500522,4,815,20191019,13:15,Fecha 10,Temporada Regular,Florencio Sola,Banfield
+500520,10,2,20191019,15:30,Fecha 10,Temporada Regular,Libertadores de América,Avellaneda
+500529,869,13,20191019,17:45,Fecha 10,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500528,135,12,20191019,20:00,Fecha 10,Temporada Regular,Mario Alberto Kempes,Córdoba
+500524,122,129,20191020,11:00,Fecha 10,Temporada Regular,José María Minella,Mar del Plata
+500521,8,137,20191020,13:15,Fecha 10,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500519,100,19,20191020,15:30,Fecha 10,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500526,18,20,20191020,17:45,Fecha 10,Temporada Regular,Gigante de Arroyito,Rosario
+500525,1485,7,20191021,19:00,Fecha 10,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500527,6,132,20191021,21:20,Fecha 10,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500541,132,122,20191029,15:00,Fecha 11,Temporada Regular,Malvinas Argentinas,Mendoza
+500535,7,18,20191029,17:00,Fecha 11,Temporada Regular,Ciudad de La Plata,La Plata
+500538,13,8,20191029,19:10,Fecha 11,Temporada Regular,Marcelo Bielsa,Rosario
+500540,815,869,20191029,19:10,Fecha 11,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500530,17,6,20191029,21:20,Fecha 11,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500533,2,135,20191030,15:00,Fecha 11,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500531,19,129,20191030,17:00,Fecha 11,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500539,137,10,20191030,19:10,Fecha 11,Temporada Regular,15 de abril,Santa Fe
+500534,16,4,20191030,21:20,Fecha 11,Temporada Regular,Presidente Perón,Avellaneda
+500537,3,1485,20191031,17:00,Fecha 11,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500532,20,100,20191031,19:10,Fecha 11,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500536,12,5,20191031,21:20,Fecha 11,Temporada Regular,Ciudad de Lanús,Lanús
+500551,6,815,20191102,13:15,Fecha 12,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500545,8,7,20191102,15:30,Fecha 12,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500550,18,132,20191102,17:45,Fecha 12,Temporada Regular,Gigante de Arroyito,Rosario
+500548,122,17,20191102,20:00,Fecha 12,Temporada Regular,José María Minella,Mar del Plata
+500542,5,3,20191103,11:00,Fecha 12,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500546,4,137,20191103,13:15,Fecha 12,Temporada Regular,Florencio Sola,Banfield
+500552,135,13,20191103,15:30,Fecha 12,Temporada Regular,Mario Alberto Kempes,Córdoba
+500553,869,16,20191103,17:45,Fecha 12,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500544,10,19,20191103,20:00,Fecha 12,Temporada Regular,Libertadores de América,Avellaneda
+500547,129,2,20191104,19:00,Fecha 12,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500543,100,12,20191104,21:10,Fecha 12,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500549,1485,20,20191104,21:10,Fecha 12,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500558,7,135,20191108,19:00,Fecha 13,Temporada Regular,Ciudad de La Plata,La Plata
+500564,137,815,20191108,21:10,Fecha 13,Temporada Regular,15 de abril,Santa Fe
+500559,12,4,20191109,15:30,Fecha 13,Temporada Regular,Ciudad de Lanús,Lanús
+500555,19,2,20191109,17:45,Fecha 13,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500565,132,10,20191109,20:00,Fecha 13,Temporada Regular,Malvinas Argentinas,Mendoza
+500562,1485,869,20191109,21:10,Fecha 13,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500554,17,18,20191110,11:00,Fecha 13,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500561,122,8,20191110,13:15,Fecha 13,Temporada Regular,José María Minella,Mar del Plata
+500563,13,129,20191110,15:30,Fecha 13,Temporada Regular,Marcelo Bielsa,Rosario
+500557,16,100,20191110,17:45,Fecha 13,Temporada Regular,Presidente Perón,Avellaneda
+500556,20,5,20191110,20:00,Fecha 13,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500560,3,6,20191212,21:00,Fecha 13,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500567,100,1485,20191123,19:40,Fecha 14,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500572,129,12,20191123,19:40,Fecha 14,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500577,815,19,20191123,21:45,Fecha 14,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500566,5,137,20191124,17:10,Fecha 14,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500570,8,3,20191124,19:40,Fecha 14,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500571,4,20,20191124,19:40,Fecha 14,Temporada Regular,Florencio Sola,Banfield
+500575,135,16,20191124,21:45,Fecha 14,Temporada Regular,Mario Alberto Kempes,Córdoba
+500574,6,7,20191125,19:00,Fecha 14,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500576,869,132,20191125,19:00,Fecha 14,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500568,2,13,20191125,21:10,Fecha 14,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500573,18,122,20191125,21:10,Fecha 14,Temporada Regular,Gigante de Arroyito,Rosario
+500569,10,17,20200119,19:10,Fecha 14,Temporada Regular,Libertadores de América,Avellaneda
+500583,4,8,20191129,19:00,Fecha 15,Temporada Regular,Florencio Sola,Banfield
+500581,16,129,20191129,21:10,Fecha 15,Temporada Regular,Presidente Perón,Avellaneda
+500582,7,815,20191130,17:35,Fecha 15,Temporada Regular,Jorge Luis Hirschi,La Plata
+500578,5,2,20191130,19:40,Fecha 15,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500587,13,17,20191130,21:45,Fecha 15,Temporada Regular,Marcelo Bielsa,Rosario
+500579,19,869,20191201,17:10,Fecha 15,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500580,20,6,20191201,19:40,Fecha 15,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500589,132,135,20191201,19:40,Fecha 15,Temporada Regular,Malvinas Argentinas,Mendoza
+500585,122,10,20191201,21:45,Fecha 15,Temporada Regular,José María Minella,Mar del Plata
+500586,1485,18,20191201,21:45,Fecha 15,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500584,3,12,20191202,19:00,Fecha 15,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500588,137,100,20191202,21:10,Fecha 15,Temporada Regular,15 de abril,Santa Fe
+500598,6,122,20191206,19:00,Fecha 16,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500593,10,4,20191206,21:10,Fecha 16,Temporada Regular,Libertadores de América,Avellaneda
+500591,100,3,20191207,17:35,Fecha 16,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500599,135,137,20191207,19:40,Fecha 16,Temporada Regular,Mario Alberto Kempes,Córdoba
+500601,815,13,20191207,19:40,Fecha 16,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500595,12,16,20191207,21:45,Fecha 16,Temporada Regular,Ciudad de Lanús,Lanús
+500594,8,1485,20191208,17:35,Fecha 16,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500596,129,132,20191208,17:35,Fecha 16,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500597,18,5,20191208,19:40,Fecha 16,Temporada Regular,Gigante de Arroyito,Rosario
+500590,17,19,20191208,21:45,Fecha 16,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500600,869,20,20191209,19:00,Fecha 16,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500592,2,7,20191209,21:10,Fecha 16,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500609,122,12,20200124,17:35,Fecha 17,Temporada Regular,José María Minella,Mar del Plata
+500605,8,20,20200124,19:40,Fecha 17,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500611,18,100,20200124,21:45,Fecha 17,Temporada Regular,Gigante de Arroyito,Rosario
+500612,137,2,20200124,21:45,Fecha 17,Temporada Regular,15 de abril,Santa Fe
+500608,3,13,20200125,17:35,Fecha 17,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500603,19,7,20200125,19:40,Fecha 17,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500610,1485,6,20200125,19:40,Fecha 17,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500613,132,17,20200125,21:45,Fecha 17,Temporada Regular,Malvinas Argentinas,Mendoza
+500606,4,869,20200126,17:35,Fecha 17,Temporada Regular,Florencio Sola,Banfield
+500607,129,135,20200126,17:35,Fecha 17,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500604,16,815,20200126,19:40,Fecha 17,Temporada Regular,Presidente Perón,Avellaneda
+500602,5,10,20200126,21:45,Fecha 17,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500616,20,122,20200130,21:10,Fecha 18,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500615,100,8,20200131,21:10,Fecha 18,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500618,10,18,20200201,17:35,Fecha 18,Temporada Regular,Libertadores de América,Avellaneda
+500619,7,137,20200201,19:40,Fecha 18,Temporada Regular,Jorge Luis Hirschi,La Plata
+500625,815,129,20200201,19:40,Fecha 18,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500617,2,16,20200201,21:45,Fecha 18,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500614,17,1485,20200202,17:35,Fecha 18,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500620,12,132,20200202,19:40,Fecha 18,Temporada Regular,Ciudad de Lanús,Lanús
+500622,6,4,20200202,19:40,Fecha 18,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500623,135,5,20200202,21:45,Fecha 18,Temporada Regular,Mario Alberto Kempes,Córdoba
+500624,869,3,20200203,19:00,Fecha 18,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500621,13,19,20200203,21:10,Fecha 18,Temporada Regular,Marcelo Bielsa,Rosario
+500634,122,1485,20200207,19:00,Fecha 19,Temporada Regular,José María Minella,Mar del Plata
+500628,2,12,20200207,21:10,Fecha 19,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500630,8,869,20200208,17:35,Fecha 19,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500632,129,6,20200208,17:35,Fecha 19,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500631,4,18,20200208,19:40,Fecha 19,Temporada Regular,Florencio Sola,Banfield
+500635,13,7,20200208,19:40,Fecha 19,Temporada Regular,Marcelo Bielsa,Rosario
+500626,5,815,20200208,21:45,Fecha 19,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500627,19,20,20200209,17:35,Fecha 19,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500629,16,10,20200209,19:40,Fecha 19,Temporada Regular,Presidente Perón,Avellaneda
+500636,137,17,20200209,21:45,Fecha 19,Temporada Regular,15 de abril,Santa Fe
+500633,3,135,20200210,19:00,Fecha 19,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500637,132,100,20200210,21:10,Fecha 19,Temporada Regular,Malvinas Argentinas,Mendoza
+500648,869,137,20200214,19:00,Fecha 20,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500646,6,16,20200214,21:10,Fecha 20,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500639,100,122,20200215,17:35,Fecha 20,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500649,815,2,20200215,19:40,Fecha 20,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500645,18,8,20200215,19:45,Fecha 20,Temporada Regular,Gigante de Arroyito,Rosario
+500647,135,19,20200215,21:50,Fecha 20,Temporada Regular,Mario Alberto Kempes,Córdoba
+500638,17,4,20200216,19:40,Fecha 20,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500643,12,13,20200216,19:40,Fecha 20,Temporada Regular,Ciudad de Lanús,Lanús
+500644,1485,5,20200216,21:50,Fecha 20,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500642,7,129,20200217,19:00,Fecha 20,Temporada Regular,Jorge Luis Hirschi,La Plata
+500641,10,3,20200217,21:10,Fecha 20,Temporada Regular,Libertadores de América,Avellaneda
+500640,20,132,20200304,19:00,Fecha 20,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500655,4,122,20200221,19:00,Fecha 21,Temporada Regular,Florencio Sola,Banfield
+500652,2,869,20200221,21:10,Fecha 21,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500651,19,16,20200222,17:35,Fecha 21,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500653,10,8,20200222,19:40,Fecha 21,Temporada Regular,Libertadores de América,Avellaneda
+500658,13,6,20200222,21:45,Fecha 21,Temporada Regular,Marcelo Bielsa,Rosario
+500661,815,12,20200222,21:50,Fecha 21,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500657,3,20,20200223,17:35,Fecha 21,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500650,5,132,20200223,19:40,Fecha 21,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500654,7,17,20200223,21:45,Fecha 21,Temporada Regular,Jorge Luis Hirschi,La Plata
+500656,129,18,20200224,19:40,Fecha 21,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500659,137,1485,20200224,21:45,Fecha 21,Temporada Regular,15 de abril,Santa Fe
+500660,135,100,20200224,21:50,Fecha 21,Temporada Regular,Mario Alberto Kempes,Córdoba
+500665,16,13,20200228,19:00,Fecha 22,Temporada Regular,Presidente Perón,Avellaneda
+500671,6,5,20200228,21:10,Fecha 22,Temporada Regular,Brigadier Gral. Estanislao López,Santa Fe
+500666,8,815,20200229,17:30,Fecha 22,Temporada Regular,Juan Carmelo Zerillo,La Plata
+500662,17,129,20200229,19:40,Fecha 22,Temporada Regular,Antonio Vespucio Liberti,Ciudad Autónoma de Buenos Aires
+500669,1485,4,20200229,21:50,Fecha 22,Temporada Regular,Alfredo Terrera,Santiago del Estero
+500673,132,137,20200229,21:50,Fecha 22,Temporada Regular,Malvinas Argentinas,Mendoza
+500668,122,19,20200301,17:35,Fecha 22,Temporada Regular,José María Minella,Mar del Plata
+500667,12,7,20200301,19:40,Fecha 22,Temporada Regular,Ciudad de Lanús,Lanús
+500670,18,3,20200301,19:45,Fecha 22,Temporada Regular,Gigante de Arroyito,Rosario
+500664,20,2,20200301,21:50,Fecha 22,Temporada Regular,Estadio José Amalfitani,Ciudad Autónoma de Buenos Aires
+500672,869,135,20200302,19:00,Fecha 22,Temporada Regular,Presbítero Bartolomé Grella,Paraná
+500663,100,10,20200302,21:10,Fecha 22,Temporada Regular,Tomás A. Ducó,Ciudad Autónoma de Buenos Aires
+500681,3,122,20200306,19:00,Fecha 23,Temporada Regular,Estadio Julio Humberto Grondona,Sarandí
+500676,2,18,20200306,21:10,Fecha 23,Temporada Regular,Diego Armando Maradona,Ciudad Autónoma de Buenos Aires
+500679,4,100,20200307,18:00,Fecha 23,Temporada Regular,Florencio Sola,Banfield
+500680,129,869,20200307,18:00,Fecha 23,Temporada Regular,Norberto Tomaghello,Florencio Varela
+500674,5,8,20200307,21:00,Fecha 23,Temporada Regular,Alberto J. Armando,Ciudad Autónoma de Buenos Aires
+500685,815,17,20200307,21:00,Fecha 23,Temporada Regular,Monumental Presidente José Fierro,Tucumán
+500675,19,12,20200308,17:35,Fecha 23,Temporada Regular,Pedro Bidegain,Ciudad Autónoma de Buenos Aires
+500677,10,1485,20200308,19:40,Fecha 23,Temporada Regular,Libertadores de América,Avellaneda
+500682,13,132,20200308,21:45,Fecha 23,Temporada Regular,Marcelo Bielsa,Rosario
+500684,135,6,20200308,21:50,Fecha 23,Temporada Regular,Mario Alberto Kempes,Córdoba
+500683,137,20,20200309,19:00,Fecha 23,Temporada Regular,15 de abril,Santa Fe
+500678,7,16,20200309,21:10,Fecha 23,Temporada Regular,Jorge Luis Hirschi,La Plata
